@@ -16,5 +16,5 @@ int main(){
     printf("Total value: %d\n",s+t);
     if(s+t>7) printf("%s won\n",a);
     else printf("%s lose\n",a);
-    return;
+     return;
 }
